@@ -1,0 +1,11 @@
+﻿Build started 15/5/2019 2:57:33 PM.
+     1>Project "D:\Giai bài tập lập trình nâng cao\Giai bài tập lập trình nâng cao\68. Tính tổng chữ số\68. Tính tổng chữ số.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\giai bài tập lập trình nâng cao\giai bài tập lập trình nâng cao\68. tính tổng chữ số\source.cpp(16): fatal error C1004: unexpected end-of-file found
+     1>Done Building Project "D:\Giai bài tập lập trình nâng cao\Giai bài tập lập trình nâng cao\68. Tính tổng chữ số\68. Tính tổng chữ số.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.12
